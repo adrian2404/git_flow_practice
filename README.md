@@ -1,4 +1,4 @@
-# LEGO Smart Home and Home Controller Lite UI
+# LEGO Smart Home and Home Controller
 
 This simplified version of Raspberry Pi House code samples and the home controller user-interface are written for blog tutorials.
 
